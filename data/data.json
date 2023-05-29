@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "author": "Steven",
+      "title": "Today news",
+      "body": "Lazy Loaders is best",
+      "id": 1
+    },
+    {
+      "author": "Bosh",
+      "title": "Ughhh",
+      "body": "Lazy Loaders is best",
+      "id": 2
+    },
+    {
+      "author": "Bosh",
+      "title": "Ughhh",
+      "body": "Lazy Loaders is best",
+      "id": 3
+    },
+    {
+      "author": "Josh",
+      "title": "Ughhh",
+      "body": "Lazy Loaders is best",
+      "id": 4
+    },
+    {
+      "author": "Bosh",
+      "title": "Sussy baka",
+      "body": "Lazy Loaders is best",
+      "id": 5
+    }
+  ]
+}
